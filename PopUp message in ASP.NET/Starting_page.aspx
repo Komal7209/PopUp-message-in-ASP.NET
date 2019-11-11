@@ -1,4 +1,4 @@
-﻿e<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Starting_page.aspx.cs" Inherits="Starting_page" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Starting_page.aspx.cs" Inherits="Starting_page" %>
 
 <!DOCTYPE html>
 
